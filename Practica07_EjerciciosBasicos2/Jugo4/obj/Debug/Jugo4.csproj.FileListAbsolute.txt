@@ -1,0 +1,7 @@
+C:\Users\Z\source\repos\Jugo3\Jugo4\Jugo4\bin\Debug\Jugo4.exe.config
+C:\Users\Z\source\repos\Jugo3\Jugo4\Jugo4\bin\Debug\Jugo4.exe
+C:\Users\Z\source\repos\Jugo3\Jugo4\Jugo4\bin\Debug\Jugo4.pdb
+C:\Users\Z\source\repos\Jugo3\Jugo4\Jugo4\obj\Debug\Jugo4.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Jugo3\Jugo4\Jugo4\obj\Debug\Jugo4.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Jugo3\Jugo4\Jugo4\obj\Debug\Jugo4.exe
+C:\Users\Z\source\repos\Jugo3\Jugo4\Jugo4\obj\Debug\Jugo4.pdb

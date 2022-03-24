@@ -1,0 +1,7 @@
+C:\Users\Zetto\Desktop\TesitoClass\Practicas Random\AAAAAAAAAAAAAA\AAAAAAAAAAAAAA\bin\Debug\AAAAAAAAAAAAAA.exe.config
+C:\Users\Zetto\Desktop\TesitoClass\Practicas Random\AAAAAAAAAAAAAA\AAAAAAAAAAAAAA\bin\Debug\AAAAAAAAAAAAAA.exe
+C:\Users\Zetto\Desktop\TesitoClass\Practicas Random\AAAAAAAAAAAAAA\AAAAAAAAAAAAAA\bin\Debug\AAAAAAAAAAAAAA.pdb
+C:\Users\Zetto\Desktop\TesitoClass\Practicas Random\AAAAAAAAAAAAAA\AAAAAAAAAAAAAA\obj\Debug\AAAAAAAAAAAAAA.csprojAssemblyReference.cache
+C:\Users\Zetto\Desktop\TesitoClass\Practicas Random\AAAAAAAAAAAAAA\AAAAAAAAAAAAAA\obj\Debug\AAAAAAAAAAAAAA.csproj.CoreCompileInputs.cache
+C:\Users\Zetto\Desktop\TesitoClass\Practicas Random\AAAAAAAAAAAAAA\AAAAAAAAAAAAAA\obj\Debug\AAAAAAAAAAAAAA.exe
+C:\Users\Zetto\Desktop\TesitoClass\Practicas Random\AAAAAAAAAAAAAA\AAAAAAAAAAAAAA\obj\Debug\AAAAAAAAAAAAAA.pdb

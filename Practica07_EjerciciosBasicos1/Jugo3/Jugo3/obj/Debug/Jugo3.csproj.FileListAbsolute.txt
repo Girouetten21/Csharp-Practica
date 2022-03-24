@@ -1,0 +1,7 @@
+C:\Users\Z\source\repos\Jugo3\Jugo3\Jugo3\bin\Debug\Jugo3.exe.config
+C:\Users\Z\source\repos\Jugo3\Jugo3\Jugo3\bin\Debug\Jugo3.exe
+C:\Users\Z\source\repos\Jugo3\Jugo3\Jugo3\bin\Debug\Jugo3.pdb
+C:\Users\Z\source\repos\Jugo3\Jugo3\Jugo3\obj\Debug\Jugo3.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Jugo3\Jugo3\Jugo3\obj\Debug\Jugo3.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Jugo3\Jugo3\Jugo3\obj\Debug\Jugo3.exe
+C:\Users\Z\source\repos\Jugo3\Jugo3\Jugo3\obj\Debug\Jugo3.pdb

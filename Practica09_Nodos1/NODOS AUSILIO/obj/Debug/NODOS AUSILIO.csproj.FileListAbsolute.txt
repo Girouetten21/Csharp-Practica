@@ -1,0 +1,2 @@
+C:\Users\Z\source\repos\NODOS AUSILIO\NODOS AUSILIO\obj\Debug\NODOS AUSILIO.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\NODOS AUSILIO\NODOS AUSILIO\obj\Debug\NODOS AUSILIO.csproj.CoreCompileInputs.cache

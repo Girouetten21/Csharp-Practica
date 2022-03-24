@@ -1,0 +1,7 @@
+C:\Users\Zetto\Desktop\TesitoClass\TesitoClass\TesitoClass\bin\Debug\TesitoClass.exe.config
+C:\Users\Zetto\Desktop\TesitoClass\TesitoClass\TesitoClass\bin\Debug\TesitoClass.exe
+C:\Users\Zetto\Desktop\TesitoClass\TesitoClass\TesitoClass\bin\Debug\TesitoClass.pdb
+C:\Users\Zetto\Desktop\TesitoClass\TesitoClass\TesitoClass\obj\Debug\TesitoClass.csprojAssemblyReference.cache
+C:\Users\Zetto\Desktop\TesitoClass\TesitoClass\TesitoClass\obj\Debug\TesitoClass.csproj.CoreCompileInputs.cache
+C:\Users\Zetto\Desktop\TesitoClass\TesitoClass\TesitoClass\obj\Debug\TesitoClass.exe
+C:\Users\Zetto\Desktop\TesitoClass\TesitoClass\TesitoClass\obj\Debug\TesitoClass.pdb

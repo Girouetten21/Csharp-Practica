@@ -1,0 +1,8 @@
+C:\Users\Z\source\repos\ListaTipoCola\ListaTipoCola\bin\Debug\ListaTipoCola.dll
+C:\Users\Z\source\repos\ListaTipoCola\ListaTipoCola\bin\Debug\ListaTipoCola.pdb
+C:\Users\Z\source\repos\ListaTipoCola\ListaTipoCola\obj\Debug\ListaTipoCola.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\ListaTipoCola\ListaTipoCola\obj\Debug\ListaTipoCola.UserControl1.resources
+C:\Users\Z\source\repos\ListaTipoCola\ListaTipoCola\obj\Debug\ListaTipoCola.csproj.GenerateResource.cache
+C:\Users\Z\source\repos\ListaTipoCola\ListaTipoCola\obj\Debug\ListaTipoCola.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\ListaTipoCola\ListaTipoCola\obj\Debug\ListaTipoCola.dll
+C:\Users\Z\source\repos\ListaTipoCola\ListaTipoCola\obj\Debug\ListaTipoCola.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zetto\Desktop\TesitoClass\Jugo2\Jugo2\bin\Debug\Jugo2.exe.config
+C:\Users\Zetto\Desktop\TesitoClass\Jugo2\Jugo2\bin\Debug\Jugo2.exe
+C:\Users\Zetto\Desktop\TesitoClass\Jugo2\Jugo2\bin\Debug\Jugo2.pdb
+C:\Users\Zetto\Desktop\TesitoClass\Jugo2\Jugo2\obj\Debug\Jugo2.csprojAssemblyReference.cache
+C:\Users\Zetto\Desktop\TesitoClass\Jugo2\Jugo2\obj\Debug\Jugo2.csproj.CoreCompileInputs.cache
+C:\Users\Zetto\Desktop\TesitoClass\Jugo2\Jugo2\obj\Debug\Jugo2.exe
+C:\Users\Zetto\Desktop\TesitoClass\Jugo2\Jugo2\obj\Debug\Jugo2.pdb

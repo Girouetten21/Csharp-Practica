@@ -1,0 +1,10 @@
+C:\Users\Z\source\repos\ListaTipoColaAusilio\ListaTipoColaAusilio\bin\Debug\ListaTipoColaAusilio.exe.config
+C:\Users\Z\source\repos\ListaTipoColaAusilio\ListaTipoColaAusilio\bin\Debug\ListaTipoColaAusilio.exe
+C:\Users\Z\source\repos\ListaTipoColaAusilio\ListaTipoColaAusilio\bin\Debug\ListaTipoColaAusilio.pdb
+C:\Users\Z\source\repos\ListaTipoColaAusilio\ListaTipoColaAusilio\obj\Debug\ListaTipoColaAusilio.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\ListaTipoColaAusilio\ListaTipoColaAusilio\obj\Debug\ListaTipoColaAusilio.Form1.resources
+C:\Users\Z\source\repos\ListaTipoColaAusilio\ListaTipoColaAusilio\obj\Debug\ListaTipoColaAusilio.Properties.Resources.resources
+C:\Users\Z\source\repos\ListaTipoColaAusilio\ListaTipoColaAusilio\obj\Debug\ListaTipoColaAusilio.csproj.GenerateResource.cache
+C:\Users\Z\source\repos\ListaTipoColaAusilio\ListaTipoColaAusilio\obj\Debug\ListaTipoColaAusilio.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\ListaTipoColaAusilio\ListaTipoColaAusilio\obj\Debug\ListaTipoColaAusilio.exe
+C:\Users\Z\source\repos\ListaTipoColaAusilio\ListaTipoColaAusilio\obj\Debug\ListaTipoColaAusilio.pdb

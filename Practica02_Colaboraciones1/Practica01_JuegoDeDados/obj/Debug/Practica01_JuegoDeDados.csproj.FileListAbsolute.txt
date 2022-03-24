@@ -1,0 +1,14 @@
+C:\Users\Zetto\source\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\bin\Debug\Practica01_JuegoDeDados.exe.config
+C:\Users\Zetto\source\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\bin\Debug\Practica01_JuegoDeDados.exe
+C:\Users\Zetto\source\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\bin\Debug\Practica01_JuegoDeDados.pdb
+C:\Users\Zetto\source\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\obj\Debug\Practica01_JuegoDeDados.csprojAssemblyReference.cache
+C:\Users\Zetto\source\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\obj\Debug\Practica01_JuegoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Zetto\source\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\obj\Debug\Practica01_JuegoDeDados.exe
+C:\Users\Zetto\source\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\obj\Debug\Practica01_JuegoDeDados.pdb
+C:\Users\Zetto\Desktop\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\bin\Debug\Practica01_JuegoDeDados.exe.config
+C:\Users\Zetto\Desktop\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\bin\Debug\Practica01_JuegoDeDados.exe
+C:\Users\Zetto\Desktop\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\bin\Debug\Practica01_JuegoDeDados.pdb
+C:\Users\Zetto\Desktop\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\obj\Debug\Practica01_JuegoDeDados.csprojAssemblyReference.cache
+C:\Users\Zetto\Desktop\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\obj\Debug\Practica01_JuegoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Zetto\Desktop\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\obj\Debug\Practica01_JuegoDeDados.exe
+C:\Users\Zetto\Desktop\repos\Practica01_JuegoDeDados\Practica01_JuegoDeDados\obj\Debug\Practica01_JuegoDeDados.pdb

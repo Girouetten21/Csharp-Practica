@@ -1,0 +1,7 @@
+C:\Users\Zetto\Desktop\AUSILIO\AUXILIO\AUXILIO\obj\Debug\AUXILIO.csprojAssemblyReference.cache
+C:\Users\Zetto\Desktop\AUSILIO\AUXILIO\AUXILIO\obj\Debug\AUXILIO.csproj.CoreCompileInputs.cache
+C:\Users\Zetto\Desktop\AUSILIO\AUXILIO\AUXILIO\bin\Debug\AUXILIO.exe.config
+C:\Users\Zetto\Desktop\AUSILIO\AUXILIO\AUXILIO\bin\Debug\AUXILIO.exe
+C:\Users\Zetto\Desktop\AUSILIO\AUXILIO\AUXILIO\bin\Debug\AUXILIO.pdb
+C:\Users\Zetto\Desktop\AUSILIO\AUXILIO\AUXILIO\obj\Debug\AUXILIO.exe
+C:\Users\Zetto\Desktop\AUSILIO\AUXILIO\AUXILIO\obj\Debug\AUXILIO.pdb

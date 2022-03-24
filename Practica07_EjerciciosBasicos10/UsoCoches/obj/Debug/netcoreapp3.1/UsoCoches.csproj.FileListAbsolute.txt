@@ -1,0 +1,13 @@
+C:\Users\Areva\source\repos\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.exe
+C:\Users\Areva\source\repos\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.deps.json
+C:\Users\Areva\source\repos\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.runtimeconfig.json
+C:\Users\Areva\source\repos\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.runtimeconfig.dev.json
+C:\Users\Areva\source\repos\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.dll
+C:\Users\Areva\source\repos\UsoCoches\bin\Debug\netcoreapp3.1\UsoCoches.pdb
+C:\Users\Areva\source\repos\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.csproj.AssemblyReference.cache
+C:\Users\Areva\source\repos\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.AssemblyInfoInputs.cache
+C:\Users\Areva\source\repos\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.AssemblyInfo.cs
+C:\Users\Areva\source\repos\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.csproj.CoreCompileInputs.cache
+C:\Users\Areva\source\repos\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.dll
+C:\Users\Areva\source\repos\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.pdb
+C:\Users\Areva\source\repos\UsoCoches\obj\Debug\netcoreapp3.1\UsoCoches.genruntimeconfig.cache

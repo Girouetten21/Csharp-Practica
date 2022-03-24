@@ -1,0 +1,7 @@
+C:\Users\Z\source\repos\Jugo5\Jugo5\bin\Debug\Jugo5.exe.config
+C:\Users\Z\source\repos\Jugo5\Jugo5\bin\Debug\Jugo5.exe
+C:\Users\Z\source\repos\Jugo5\Jugo5\bin\Debug\Jugo5.pdb
+C:\Users\Z\source\repos\Jugo5\Jugo5\obj\Debug\Jugo5.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Jugo5\Jugo5\obj\Debug\Jugo5.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Jugo5\Jugo5\obj\Debug\Jugo5.exe
+C:\Users\Z\source\repos\Jugo5\Jugo5\obj\Debug\Jugo5.pdb

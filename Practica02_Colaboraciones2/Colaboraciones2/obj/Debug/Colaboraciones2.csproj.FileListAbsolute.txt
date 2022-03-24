@@ -1,0 +1,7 @@
+C:\Users\Z\source\repos\Colaboraciones2\Colaboraciones2\bin\Debug\Colaboraciones2.exe.config
+C:\Users\Z\source\repos\Colaboraciones2\Colaboraciones2\bin\Debug\Colaboraciones2.exe
+C:\Users\Z\source\repos\Colaboraciones2\Colaboraciones2\bin\Debug\Colaboraciones2.pdb
+C:\Users\Z\source\repos\Colaboraciones2\Colaboraciones2\obj\Debug\Colaboraciones2.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Colaboraciones2\Colaboraciones2\obj\Debug\Colaboraciones2.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Colaboraciones2\Colaboraciones2\obj\Debug\Colaboraciones2.exe
+C:\Users\Z\source\repos\Colaboraciones2\Colaboraciones2\obj\Debug\Colaboraciones2.pdb

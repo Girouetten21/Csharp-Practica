@@ -1,0 +1,7 @@
+C:\Users\Zetto\source\repos\Altura\Altura\bin\Debug\Altura.exe.config
+C:\Users\Zetto\source\repos\Altura\Altura\bin\Debug\Altura.exe
+C:\Users\Zetto\source\repos\Altura\Altura\bin\Debug\Altura.pdb
+C:\Users\Zetto\source\repos\Altura\Altura\obj\Debug\Altura.csprojAssemblyReference.cache
+C:\Users\Zetto\source\repos\Altura\Altura\obj\Debug\Altura.csproj.CoreCompileInputs.cache
+C:\Users\Zetto\source\repos\Altura\Altura\obj\Debug\Altura.exe
+C:\Users\Zetto\source\repos\Altura\Altura\obj\Debug\Altura.pdb

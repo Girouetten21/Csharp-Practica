@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jugo6", "Jugo6\Jugo6.csproj", "{52E6430C-EC3A-4151-8B81-3D5C4477EC3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jugo5", "..\Jugo5\Jugo5\Jugo5.csproj", "{B03E09D1-B10C-4E6E-9BD4-8D2406F2AC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E6430C-EC3A-4151-8B81-3D5C4477EC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E6430C-EC3A-4151-8B81-3D5C4477EC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E6430C-EC3A-4151-8B81-3D5C4477EC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E6430C-EC3A-4151-8B81-3D5C4477EC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03E09D1-B10C-4E6E-9BD4-8D2406F2AC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03E09D1-B10C-4E6E-9BD4-8D2406F2AC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03E09D1-B10C-4E6E-9BD4-8D2406F2AC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03E09D1-B10C-4E6E-9BD4-8D2406F2AC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {833AB9F4-3619-4898-8BD4-F1656C0EF200}
+	EndGlobalSection
+EndGlobal

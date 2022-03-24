@@ -1,0 +1,6 @@
+C:\Users\Zetto\source\repos\NumerosEnSerie\NumerosEnSerie\bin\Debug\NumerosEnSerie.exe.config
+C:\Users\Zetto\source\repos\NumerosEnSerie\NumerosEnSerie\bin\Debug\NumerosEnSerie.exe
+C:\Users\Zetto\source\repos\NumerosEnSerie\NumerosEnSerie\bin\Debug\NumerosEnSerie.pdb
+C:\Users\Zetto\source\repos\NumerosEnSerie\NumerosEnSerie\obj\Debug\NumerosEnSerie.csproj.CoreCompileInputs.cache
+C:\Users\Zetto\source\repos\NumerosEnSerie\NumerosEnSerie\obj\Debug\NumerosEnSerie.exe
+C:\Users\Zetto\source\repos\NumerosEnSerie\NumerosEnSerie\obj\Debug\NumerosEnSerie.pdb

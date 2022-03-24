@@ -1,0 +1,7 @@
+C:\Users\Z\source\repos\Practica Nodos wtf\Practica Nodos wtf\bin\Debug\Practica Nodos wtf.exe.config
+C:\Users\Z\source\repos\Practica Nodos wtf\Practica Nodos wtf\bin\Debug\Practica Nodos wtf.exe
+C:\Users\Z\source\repos\Practica Nodos wtf\Practica Nodos wtf\bin\Debug\Practica Nodos wtf.pdb
+C:\Users\Z\source\repos\Practica Nodos wtf\Practica Nodos wtf\obj\Debug\Practica Nodos wtf.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Practica Nodos wtf\Practica Nodos wtf\obj\Debug\Practica Nodos wtf.exe
+C:\Users\Z\source\repos\Practica Nodos wtf\Practica Nodos wtf\obj\Debug\Practica Nodos wtf.pdb
+C:\Users\Z\source\repos\Practica Nodos wtf\Practica Nodos wtf\obj\Debug\Practica Nodos wtf.csprojAssemblyReference.cache

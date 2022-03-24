@@ -1,0 +1,6 @@
+C:\Users\Z\source\repos\Jugo6\Jugo6\bin\Debug\Jugo6.exe.config
+C:\Users\Z\source\repos\Jugo6\Jugo6\bin\Debug\Jugo6.exe
+C:\Users\Z\source\repos\Jugo6\Jugo6\bin\Debug\Jugo6.pdb
+C:\Users\Z\source\repos\Jugo6\Jugo6\obj\Debug\Jugo6.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Jugo6\Jugo6\obj\Debug\Jugo6.exe
+C:\Users\Z\source\repos\Jugo6\Jugo6\obj\Debug\Jugo6.pdb
